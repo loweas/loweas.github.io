@@ -1,4 +1,4 @@
-#Ashley C Lowe
+# Ashley C Lowe
 
 213 Ballard Extension Hall
 Corvallis, OR 97331
@@ -20,12 +20,12 @@ Applied Microeconomics
 
 **[Portland Community College][]** Associates of Art focus in Economics
 
-## Academic Employment
+## Academic Employment \
 **_Graduate Teaching Assistant_**
 *2018 Oregon State University* \
 AEC 388 *Agricultural Law* \
 AEC 253 *Environmental Law, Policy and Economics* \
-AEC/ECON 352 *Environmental Economics and Policy* 
+AEC/ECON 352 *Environmental Economics and Policy* \
 
 **_Undergraduate Grader_**
 *2009-2010 Portland State University* \
