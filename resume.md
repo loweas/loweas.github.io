@@ -20,7 +20,7 @@ Applied Microeconomics
 
 **[Portland Community College][]** Associates of Art focus in Economics
 
-##Academic Employment
+## Academic Employment
 **_Graduate Teaching Assistant_**
 *2018 Oregon State University*
 AEC 388 *Agricultural Law*
