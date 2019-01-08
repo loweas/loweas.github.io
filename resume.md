@@ -7,10 +7,10 @@ loweas@oregonstate.edu
 
 
 # Field of Interest
-Environmental and Natural Resource Economics
-Public Sector Economics
-Outdoor Recreational Economics
-Applied Microeconomics
+Environmental and Natural Resource Economics \
+Public Sector Economics \
+Outdoor Recreational Economics \
+Applied Microeconomics \
 
 
 ## Education
@@ -23,12 +23,12 @@ Applied Microeconomics
 ## Academic Employment
 **_Graduate Teaching Assistant_**
 *2018 Oregon State University*
-AEC 388 *Agricultural Law*
-AEC 253 *Environmental Law, Policy and Economics*
-AEC/ECON 352 *Environmental Economics and Policy*
+AEC 388 *Agricultural Law* \
+AEC 253 *Environmental Law, Policy and Economics* \
+AEC/ECON 352 *Environmental Economics and Policy* \
 
 **_Undergraduate Grader_**
-*2009-2010 Portland State University*
+*2009-2010 Portland State University* \
 STAT 105  *Criminology Statistics*
 
 
