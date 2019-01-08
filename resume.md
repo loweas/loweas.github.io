@@ -25,7 +25,7 @@ Applied Microeconomics
 *2018 Oregon State University* \
 AEC 388 *Agricultural Law* \
 AEC 253 *Environmental Law, Policy and Economics* \
-AEC/ECON 352 *Environmental Economics and Policy* \
+AEC/ECON 352 *Environmental Economics and Policy* 
 
 **_Undergraduate Grader_** \
 *2009-2010 Portland State University* \
