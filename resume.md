@@ -26,7 +26,8 @@ Applied Microeconomics
   * Graduated Winter 2011
 ##### [Portland Community College][]  
 * Associates of Art focus in Economics
-  * Completed 2007
+  * Completed 2007  
+  
 ------------------
 ## Academic Employment
 ##### Graduate Teaching Assistant
@@ -43,9 +44,10 @@ Applied Microeconomics
 ------------------
 ### WORK EXPERIENCE SECTION
 
-#### Non-Academic-Eployment
+#### Non-Academic-Eployment  
+
 Year | Employeer | Position | Location
------|-----|--------|--------
+-----|-----------|----------|--------
 2013-2015 | Oregon State Parks and Recreation | Park Ranger Assistant | Newport, OR
 2013| T Lazy 7 Ranch|  Reservation and Snowmobile Guide  | Aspen, CO
 2012| Denali ATV Adventure|ATV Guide and Reservation|   Healy, AK
@@ -79,12 +81,15 @@ Year | Employeer | Position | Location
 ## More Video Production
 
 ### [Betty Ann Coates][]
-![](https://github.com/loweas/loweas.github.io/blob/images/betty.jpg?raw=true) A Memorial Video narrated by my grandmother.
+![](https://github.com/loweas/loweas.github.io/blob/images/betty.jpg?raw=true) A Memorial Video narrated by my grandmother.  
+
 ### Presentations on Hikes
 * REI (Portland, Clackamas, Hillsboro)
 * Logsden Community Club
 * Newport Public Library
-* Rotary Club.
+* Rotary Club.   
+
+
 --------
 
 
