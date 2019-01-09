@@ -7,10 +7,10 @@ loweas@oregonstate.edu
 
 ------------------
 ## Field of Interest
-Environmental and Natural Resource Economics
-Public Sector Economics
-Outdoor Recreational Economics
-Applied Microeconomics
+Environmental and Natural Resource Economics  
+Public Sector Economics  
+Outdoor Recreational Economics  
+Applied Microeconomics  
 
 ------------------
 ## Education :book:
