@@ -64,7 +64,8 @@ Year | Employeer | Position | Location
 ### Adventure Documentaries:
 #### [Continental Divide Trail][]
 ##### A thru-hike from Canada to Mexico of an approximatley 3,000 miles trail
-**_Completed Jun 28-Nov 21. 2014_**
+**_Completed Jun 28-Nov 21. 2014_**  
+
 ![](https://github.com/loweas/loweas.github.io/blob/images/cdtmexico.jpg?raw=true)
 * States Covered:
    *  Montana
@@ -74,7 +75,8 @@ Year | Employeer | Position | Location
 
 
 ###  [Pacific Crest Trail][]
-##### A thru-hike from Mexico to Canada 2,660 miles **_Completed Apr.-Oct 2011_**
+##### A thru-hike from Mexico to Canada 2,660 miles **_Completed Apr.-Oct 2011_**  
+
  ![](https://github.com/loweas/loweas.github.io/blob/images/pctcanada.jpg?raw=true)
 * States Covered:
   * [Calirfornia][]
