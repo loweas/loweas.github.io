@@ -19,11 +19,13 @@ Applied Microeconomics
 ##### [Oregon State University][]
 * Ph.D. student in Applied Microeconomic
   * Focus in Public Lands Management
-  * Expected Graduation in September, 2022  
+  * Expected Graduation in September, 2022 
+  
 ##### [Portland State University][]
 * Bachelor of Science in Economics
   * Minor in Philosophy
   * Graduated Winter 2011
+  
 ##### [Portland Community College][]  
 * Associates of Art focus in Economics
   * Completed 2007  
