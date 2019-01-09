@@ -61,9 +61,9 @@ Year | Employeer | Position | Location
 ----------------
 # Personal Achievements
 ## Avid Backpacker :mountain: Video Editor :movie_camera:
-### Adventure Documentaries:
-#### [Continental Divide Trail][]
-##### A thru-hike from Canada to Mexico of an approximatley 3,000 miles trail
+## Adventure Documentaries:
+### [Continental Divide Trail][]
+#### A thru-hike from Canada to Mexico of an approximatley 3,000 miles trail
 **_Completed Jun 28-Nov 21. 2014_**  
 
 ![](https://github.com/loweas/loweas.github.io/blob/images/cdtmexico.jpg?raw=true)
@@ -74,7 +74,7 @@ Year | Employeer | Position | Location
    *   New Mexico.
 
 
-###  [Pacific Crest Trail][]
+##  [Pacific Crest Trail][]
 ##### A thru-hike from Mexico to Canada 2,660 miles **_Completed Apr.-Oct 2011_**  
 
  ![](https://github.com/loweas/loweas.github.io/blob/images/pctcanada.jpg?raw=true)
@@ -83,9 +83,9 @@ Year | Employeer | Position | Location
   * [Oregon][]
   * [Washington][]
 
-## More Video Production
+# More Video Production
 
-### [Betty Ann Coates][]
+## [Betty Ann Coates][]
 ![](https://github.com/loweas/loweas.github.io/blob/images/betty.jpg?raw=true) A Memorial Video narrated by my grandmother.  
 
 ### Presentations on Hikes
