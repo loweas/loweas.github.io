@@ -13,7 +13,8 @@ Outdoor Recreational Economics
 Applied Microeconomics  
 
 ------------------
-## Education 
+## Education  
+
 :book:
 
 ##### [Oregon State University][]
@@ -55,7 +56,7 @@ Year | Employeer | Position | Location
 2012| Denali ATV Adventure|ATV Guide and Reservation|   Healy, AK
 2009| Valhalla Lodge| Waitress| Nondalton, AK
 2008| Yukon River Camp| Waitress| North Fairbanks, AK
-2002-When Needed| Logsden Country Store| Stand-in Manager Family Buisness|When Needed| Logsden, OR
+2002-When Needed| Logsden Country Store| Stand-in Manager Family Buisness| Logsden, OR
 
 ----------------
 # Personal Achievements
