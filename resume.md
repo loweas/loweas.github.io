@@ -53,7 +53,7 @@ Year | Employeer | Position | Location
 -----|-----------|----------|--------
 2013-2015 | Oregon State Parks and Recreation | Park Ranger Assistant | Newport, OR
 2013| T Lazy 7 Ranch|  Reservation and Snowmobile Guide  | Aspen, CO
-2012| Denali ATV Adventure|ATV Guide and Reservation|   Healy, AK
+2012| Denali ATV Adventure| Reservation|   Healy, AK
 2009| Valhalla Lodge| Waitress| Nondalton, AK
 2008| Yukon River Camp| Waitress| North Fairbanks, AK
 2002-When Needed| Logsden Country Store| Stand-in Manager Family Buisness| Logsden, OR
