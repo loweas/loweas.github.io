@@ -13,7 +13,8 @@ Outdoor Recreational Economics
 Applied Microeconomics  
 
 ------------------
-## Education :book:
+## Education 
+:book:
 
 ##### [Oregon State University][]
 * Ph.D. student in Applied Microeconomic
