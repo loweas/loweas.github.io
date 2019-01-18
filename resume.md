@@ -1,5 +1,5 @@
 ># Ashley C Lowe
-<img src="https://github.com/loweas/loweas.github.io/blob/images/resumephoto.jpg?raw=true" width="25%" height="25%" />
+<img src="https://github.com/loweas/loweas.github.io/blob/images/resumephoto.jpg?raw=true" width="30%" height="30%" />
 > Office 316  
 213 Ballard Extension Hall  
 Corvallis, OR 97331  
@@ -65,8 +65,7 @@ Year | Employeer | Position | Location
 ### [Continental Divide Trail][]
 #### A thru-hike from Canada to Mexico of an approximatley 3,000 miles trail
 **_Completed Jun 28-Nov 21. 2014_**  
-
-![](https://github.com/loweas/loweas.github.io/blob/images/cdtmexico.jpg?raw=true)
+<img src="https://github.com/loweas/loweas.github.io/blob/images/cdtmexico.jpg?raw=true" width="30%" height="30%" />
 * States Hiked:
    *  Montana
    *   Wyoming
@@ -76,8 +75,7 @@ Year | Employeer | Position | Location
 
 ##  [Pacific Crest Trail][]
 ##### A thru-hike from Mexico to Canada 2,660 miles **_Completed Apr.-Oct 2011_**  
-
- ![](https://github.com/loweas/loweas.github.io/blob/images/pctcanada.jpg?raw=true)
+<img src="https://github.com/loweas/loweas.github.io/blob/images/pctcanada.jpg?raw=true" width="30%" height="30%" />
 * States Hiked:
   * [Calirfornia][]
   * [Oregon][]
@@ -86,7 +84,7 @@ Year | Employeer | Position | Location
 # More Video Production
 
 ## [Betty Ann Coates][]
-![](https://github.com/loweas/loweas.github.io/blob/images/betty.jpg?raw=true) A Memorial Video narrated by my grandmother.  
+<img src="https://github.com/loweas/loweas.github.io/blob/images/betty.jpg?raw=true" width="30%" height="30%" /> A Memorial Video narrated by my grandmother.  
 
 ### Presentations on Hikes
 * REI (Portland, Clackamas, Hillsboro)
