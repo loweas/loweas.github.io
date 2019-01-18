@@ -15,7 +15,7 @@ Applied Microeconomics
 ------------------
 ## Education  
 
-- :book:
+-:book:
 
 ##### [Oregon State University][]
 * Ph.D. student in Applied Economics
@@ -60,7 +60,7 @@ Year | Employeer | Position | Location
 
 ----------------
 # Personal Achievements
-## Avid Backpacker - :mountain: Video Editor - :movie_camera:
+## Avid Backpacker -:mountain: Video Editor -:movie_camera:
 ## Adventure Documentaries:
 ### [Continental Divide Trail][]
 #### A thru-hike from Canada to Mexico of an approximatley 3,000 miles trail
