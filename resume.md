@@ -84,7 +84,8 @@ Year | Employeer | Position | Location
 # More Video Production
 
 ## [Betty Ann Coates][]
-<img src="https://github.com/loweas/loweas.github.io/blob/images/betty.jpg?raw=true" width="30%" height="30%" /> A Memorial Video narrated by my grandmother.  
+<img src="https://github.com/loweas/loweas.github.io/blob/images/betty.jpg?raw=true" width="30%" height="30%" />  
+A Memorial Video narrated by my grandmother.  
 
 ### Presentations on Hikes
 * REI (Portland, Clackamas, Hillsboro)
