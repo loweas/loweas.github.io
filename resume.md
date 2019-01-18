@@ -65,7 +65,7 @@ Year | Employeer | Position | Location
 ### [Continental Divide Trail][]
 #### A thru-hike from Canada to Mexico of an approximatley 3,000 miles trail
 **_Completed Jun 28-Nov 21. 2014_**  
-<img src="https://github.com/loweas/loweas.github.io/blob/images/cdtmexico.jpg?raw=true" width="30%" height="30%" />
+<img src="https://github.com/loweas/loweas.github.io/blob/images/cdtmexico.jpg?raw=true" width="50%" height="50%" />
 * States Hiked:
    *  Montana
    *   Wyoming
@@ -75,7 +75,7 @@ Year | Employeer | Position | Location
 
 ##  [Pacific Crest Trail][]
 ##### A thru-hike from Mexico to Canada 2,660 miles **_Completed Apr.-Oct 2011_**  
-<img src="https://github.com/loweas/loweas.github.io/blob/images/pctcanada.jpg?raw=true" width="30%" height="30%" />
+<img src="https://github.com/loweas/loweas.github.io/blob/images/pctcanada.jpg?raw=true" width="50%" height="50%" />
 * States Hiked:
   * [Calirfornia][]
   * [Oregon][]
@@ -84,7 +84,7 @@ Year | Employeer | Position | Location
 # More Video Production
 
 ## [Betty Ann Coates][]
-<img src="https://github.com/loweas/loweas.github.io/blob/images/betty.jpg?raw=true" width="30%" height="30%" />  
+<img src="https://github.com/loweas/loweas.github.io/blob/images/betty.jpg?raw=true" width="50%" height="50%" />  
 A Memorial Video narrated by my grandmother.  
 
 ### Presentations on Hikes
