@@ -18,7 +18,7 @@ Applied Microeconomics
 :book:
 
 ##### [Oregon State University][]
-* Ph.D. student in Applied Microeconomic
+* Ph.D. student in Applied Economics
   * Focus in Public Lands Management
   * Expected Graduation in September, 2022 
   
