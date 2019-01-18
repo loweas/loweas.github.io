@@ -1,9 +1,9 @@
 ># Ashley C Lowe
 <img src="https://github.com/loweas/loweas.github.io/blob/images/resumephoto.jpg?raw=true" width="30%" height="30%" />
-> Office 316  
-213 Ballard Extension Hall  
+Office 316  
+213 Ballard Extension Hall    
 Corvallis, OR 97331  
-loweas@oregonstate.edu
+loweas@oregonstate.edu  
 
 ------------------
 ## Field of Interest
