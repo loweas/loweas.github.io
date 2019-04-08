@@ -42,6 +42,7 @@ Applied Microeconomics
 * AEC 388 *Agricultural Law*
 * AEC 253 *Environmental Law, Policy and Economics*
 * AEC/ECON 352 *Environmental Economics and Policy*
+* AEC/ECON 432 *Environmental Law*
 
 ##### Undergraduate Student Employment
 *2009-10 Portland State University*
@@ -49,6 +50,16 @@ Applied Microeconomics
 
 
 ------------------
+## Programming and Software Experience
+Programming Language : Python, HTML, CSS (bootstrap), JavaScript (leaflet, Jquery)
+    **Examples of website design**
+    * [Public Land and Social Media](https://loweas.github.io/oregonstateparks/)
+    * [Logsden Country Store](https://loweas.github.io/storymap/)
+Primary Environments OpenSource: QGIS and R Studio
+Proprietary Software : MATLAB, STATA, ArcGIS
+
+------------------
+
 ### WORK EXPERIENCE SECTION
 
 #### Non-Academic-Eployment
@@ -69,6 +80,7 @@ Year | Employeer | Position | Location
 ### [Continental Divide Trail][]
 #### A thru-hike from Canada to Mexico of an approximatley 3,000 miles trail
 **_Completed Jun 28-Nov 21. 2014_**
+
 <img src="https://github.com/loweas/loweas.github.io/blob/images/cdtmexico.jpg?raw=true" width="70%" height="auto" />
 * States Hiked:
    *  Montana
@@ -79,6 +91,7 @@ Year | Employeer | Position | Location
 
 ##  [Pacific Crest Trail][]
 ##### A thru-hike from Mexico to Canada 2,660 miles **_Completed Apr.-Oct 2011_**
+
 <img src="https://github.com/loweas/loweas.github.io/blob/images/pctcanada.jpg?raw=true" width="70%" height="auto" />
 * States Hiked:
   * [Calirfornia][]
@@ -88,6 +101,7 @@ Year | Employeer | Position | Location
 # More Video Production
 
 ## [Betty Ann Coates][]
+
 <img src="https://github.com/loweas/loweas.github.io/blob/images/betty.jpg?raw=true" width="70%" height="auto" />
 A Memorial Video narrated by my grandmother.
 
