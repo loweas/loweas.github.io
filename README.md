@@ -52,7 +52,7 @@ Applied Microeconomics
 ------------------
 ## Programming and Software Experience
 
- #### Programming Language
+ ### Programming Language
  * Python
  *  HTML
  *  CSS (bootstrap)
@@ -62,11 +62,11 @@ Applied Microeconomics
 * [Public Land and Social Media](https://loweas.github.io/oregonstateparks/)
 * [Logsden Country Store](https://loweas.github.io/storymap/)
 
-#### Primary Environment (OpenSource):
+### Primary Environment (OpenSource):
 * QGIS
 * R Studio
 
-#### Proprietary Software :
+### Proprietary Software :
 * MATLAB
 *  STATA
 *  ArcGIS
