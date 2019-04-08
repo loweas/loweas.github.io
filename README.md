@@ -52,15 +52,25 @@ Applied Microeconomics
 ------------------
 ## Programming and Software Experience
 
-Programming Language : Python, HTML, CSS (bootstrap), JavaScript (leaflet, Jquery)
+ #### Programming Language
+ * Python
+ *  HTML
+ *  CSS (bootstrap)
+ *  JavaScript (leaflet, Jquery)
 
-**Examples of website design**
+**_Examples of website design_**
 * [Public Land and Social Media](https://loweas.github.io/oregonstateparks/)
 * [Logsden Country Store](https://loweas.github.io/storymap/)
 
-Primary Environments OpenSource: QGIS and R Studio
+#### Primary Environment (OpenSource):
+* QGIS
+* R Studio
 
-Proprietary Software : MATLAB, STATA, ArcGIS
+#### Proprietary Software :
+* MATLAB
+*  STATA
+*  ArcGIS
+*  Microsoft Office
 
 ------------------
 
