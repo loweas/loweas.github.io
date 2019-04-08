@@ -54,10 +54,9 @@ Applied Microeconomics
 
 Programming Language : Python, HTML, CSS (bootstrap), JavaScript (leaflet, Jquery)
 
-    **Examples of website design**
-
-    * [Public Land and Social Media](https://loweas.github.io/oregonstateparks/)
-    * [Logsden Country Store](https://loweas.github.io/storymap/)
+**Examples of website design**
+* [Public Land and Social Media](https://loweas.github.io/oregonstateparks/)
+* [Logsden Country Store](https://loweas.github.io/storymap/)
 
 Primary Environments OpenSource: QGIS and R Studio
 
