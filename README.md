@@ -1,4 +1,4 @@
-># [Ashley C Lowe Mackenzie](https://loweas.github.io/)
+# [Ashley C Lowe Mackenzie](https://loweas.github.io/)
 <img src="https://github.com/loweas/loweas.github.io/blob/images/resumephoto.jpg?raw=true" width="50%" height="50%" />
 
 Office 316
